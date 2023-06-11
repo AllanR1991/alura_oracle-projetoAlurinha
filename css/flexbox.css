@@ -30,6 +30,21 @@
 .videoSobre .container{
   display: flex;
 }
+/*Flex Grow pega o espaço em branco e vazio e completa no elemento.*/
+.videoSobre-sobre{
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  flex-grow: 10;
+}
+
+.videoSobre-video{
+  flex-grow:2;
+}
+
+.videoSobre-sobre-list{
+  flex-grow: 1;
+}
 
 .rodapePrincipal-navMap-list{
   display: flex;
