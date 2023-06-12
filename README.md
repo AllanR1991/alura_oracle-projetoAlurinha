@@ -14,16 +14,16 @@ Este projeto foi realziado com base em um html pre-montado, onde a porposta era 
 ![alurinhaFinalizadoDesktop](https://github.com/AllanR1991/projetoAlurinha/assets/22855740/b449abb8-d97d-484a-87bc-84d957360b07)
 ![alurinhaFinalMobile](https://github.com/AllanR1991/projetoAlurinha/assets/22855740/38511199-bb9a-4d7c-b522-05880e62582f)
 
--Foram utilizados: 
- -Display;
- -flex-direction;
- -justfy-content;
- -align-items;
- -flex-grow;
- -flex-shrink;
- -flex-flow;
- -flex-wrap;
- -order;
+- Foram utilizados: 
+  - Display;
+  - flex-direction;
+  - justfy-content;
+  - align-items;
+  - flex-grow;
+  - flex-shrink;
+  - flex-flow;
+  - flex-wrap;
+  - order;
 
 ## Baixar uma copia dos arquivos:
 
