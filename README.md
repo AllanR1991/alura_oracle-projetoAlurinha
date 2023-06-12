@@ -1,29 +1,29 @@
-# projetoAlurinha
+# Projeto Alurinha
 
 -	O mesmo pode ser visualizado em ambas plataformas abaixo:
 	-	[![Github Pages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white)](https://allanr1991.github.io/projetoAlurinha/)
 
 Este projeto foi realziado com base em um html pre-montado, onde a porposta era utilizar o FlexBox para organizar nossos elementos em uma pagina HTML, de forma facil e simplez.
 
-##Projeto sem utilização do FelxBox.
+## <center>Projeto sem utilização do FelxBox.</center>
 
 ![alurinhaInicialDesktop](https://github.com/AllanR1991/projetoAlurinha/assets/22855740/94d74002-9dac-485a-9988-44300a3c14be)
 ![alurinhaInicialMobile](https://github.com/AllanR1991/projetoAlurinha/assets/22855740/5883a62a-b6dc-4ebf-a8e0-c3b039a79b47)
 
-##Projeto com utilização do FlexBox.
+## Projeto com utilização do FlexBox.
 ![alurinhaFinalizadoDesktop](https://github.com/AllanR1991/projetoAlurinha/assets/22855740/b449abb8-d97d-484a-87bc-84d957360b07)
 ![alurinhaFinalMobile](https://github.com/AllanR1991/projetoAlurinha/assets/22855740/38511199-bb9a-4d7c-b522-05880e62582f)
 
-Foram utilizados: 
-  Display;
-  flex-direction;
-  justfy-content;
-  align-items;
-  flex-grow;
-  flex-shrink;
-  flex-flow;
-  flex-wrap;
-  order;
+-Foram utilizados: 
+ -Display;
+ -flex-direction;
+ -justfy-content;
+ -align-items;
+ -flex-grow;
+ -flex-shrink;
+ -flex-flow;
+ -flex-wrap;
+ -order;
 
 ## Baixar uma copia dos arquivos:
 
