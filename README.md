@@ -23,7 +23,7 @@ Foram utilizados:
 
 -	Agora será necessário efetuar um clone do repositório através dos seguintes passos.
 	-	Ir até a pasta ou local desejável para efetuar o download do repositório > clicar com o botão esquerdo do mouse > selecionar o terminal de sua preferencia (Recomendado: Git Bash) e executar o código abaixo.
-	-	``` git clone https://github.com/AllanR1991/projeto-gamer-allan.git ```
+	-	``` git clone https://github.com/AllanR1991/projetoAlurinha.git ```
 
 ## Desenvolvedor
 [<img src="https://avatars.githubusercontent.com/u/22855740?s=400&u=18f7e6c6ceab8750ca660ee88fa05cf8d622b025&v=4" width=115><br><sub>| 🙋🏼‍♂️ Allan Rodrigues dos Santos |</sub>](https://github.com/AllanR1991) 
